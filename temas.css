@@ -1,0 +1,48 @@
+.contenedor{
+
+    width: 100%;
+    height: 1200px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .titulo{
+
+  width: 100%;
+  height: 200px;
+  background-color: red;
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.matematicas{
+
+    width: 100%;
+    height: 200px;
+    background-color: rgb(19, 158, 201);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.sociales{
+
+    width: 100%;
+    height: 200px;
+    background-color: rgb(157, 245, 15);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.ingles{
+
+    width: 100%;
+    height: 200px;
+    background-color: rgb(236, 113, 13);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
