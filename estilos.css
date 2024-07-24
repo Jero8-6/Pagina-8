@@ -5,14 +5,14 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(236, 11, 11);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("fondos-pantalla-espacio-header-1.webp");
     background-repeat: no-repeat;
 
 }
