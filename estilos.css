@@ -28,7 +28,9 @@ body{
 .subtitulo{
 
      font-size: 60px;
+     text-shadow: -1px 0 rgb(255, 255, 255), 0 1px rgb(255, 255, 255), 1px 0 white, 0 -1px white;
      color: rgb(0, 0, 0);
+     text-align: center;
 
 }
 
@@ -106,4 +108,20 @@ background-repeat: no-repeat;
     width: 303px;
     background-image: url(Biologia5.jpeg);
 
+}
+
+.ImgQui{
+
+    height: 267px;
+    width: 343px;
+    background-image: url(Quimica1.jpeg);
+    float:left;
+}
+
+.ImgQui2{
+
+    height: 208px;
+    width: 343px;
+    background-image: url(Quimica2.jpeg);
+    float:left;
 }
