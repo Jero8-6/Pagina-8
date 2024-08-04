@@ -1,7 +1,6 @@
 /* Temas del segundo período*/
 
 .texto{
-   
     font-size: 25px;
     padding-top: 50px;
     color: rgb(0, 0, 0);
@@ -21,7 +20,7 @@ body{
 .titulo{
     font-size: 80px;
     text-align: center;
-    text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -2px black;
+    text-shadow: -4px 0 black, 0 1px black, 1px 0 black, 0 -4px black;
     color: rgba(255, 0, 0, 0.938);
 
 }
@@ -30,5 +29,81 @@ body{
 
      font-size: 60px;
      color: rgb(0, 0, 0);
+
+}
+
+.imgIng{
+
+height: 303px;
+width: 450px;
+background-image: url(Ingles.jpeg);
+float:left;
+}
+
+.imgIng2{
+
+    height: 303px;
+    width: 545px;
+    background-image: url(Ingles2.jpeg);
+    float:left;
+}
+
+.ImgIng3{
+
+    height: 331px;
+    width: 330px;
+    background-image: url(Ingles3.jpeg);
+    float:left
+}    
+
+.ImgIng4{
+
+    height: 418px;
+    width: 399px;
+    background-image: url(Ingles4.jpeg);
+    float:left
+}    
+
+.ImgBio{
+
+    height: 308px;
+    width: 319px;
+    background-image: url(Biologia1.jpeg);
+    float: left;
+background-repeat: no-repeat;
+}
+
+.ImgBio2{
+
+    height: 260px;
+    width: 305px;
+    background-image: url(Biologia2.jpeg);
+background-repeat: no-repeat;
+float: left;
+
+}
+
+.ImgBio3{
+
+    height: 303px;
+    width: 700px;
+    background-image: url(Biologia3.jpeg);
+background-repeat: no-repeat;
+
+}
+
+.ImgBio4{
+
+    height: 235px;
+    width: 360px;
+    background-image: url(Biologia4.jpeg);
+
+}
+
+.ImgBio5{
+
+    height: 230px;
+    width: 303px;
+    background-image: url(Biologia5.jpeg);
 
 }
