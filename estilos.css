@@ -231,7 +231,13 @@ background-repeat: no-repeat;
     float:left;
 }
 
+.ImgTec1{
 
+    height: 307px;
+    width: 497px;
+    background-image: url(tecnologia1.png);
+    float:left;
+}
 
 
 
