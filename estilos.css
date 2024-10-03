@@ -240,6 +240,12 @@ background-repeat: no-repeat;
 }
 
 
+.ImgTec2{
 
+    height: 307px;
+    width: 572px;
+    background-image: url(tecnologia2.webp);
+    float:left;
+}
 
 
