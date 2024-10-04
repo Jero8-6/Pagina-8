@@ -248,4 +248,10 @@ background-repeat: no-repeat;
     float:left;
 }
 
+.ImgIni{
 
+    height: 1023px;
+    width: 1023px;
+    background-image: url(Logo.webp);
+    float:left;
+}
