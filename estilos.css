@@ -391,3 +391,11 @@ background-repeat: no-repeat;
     background-image: url(biologia3.3.png);
     float:left;
 }
+
+.ImgQui3-1{
+
+    height: 430px;
+    width: 600px;
+    background-image: url(quimica3.1.png);
+    float:left;
+}
