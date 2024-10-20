@@ -399,3 +399,19 @@ background-repeat: no-repeat;
     background-image: url(quimica3.1.png);
     float:left;
 }
+
+.ImgQui3-2{
+
+    height: 350px;
+    width: 705px;
+    background-image: url(quimica3.2.png);
+    float:left;
+}
+
+.ImgQui3-3{
+
+    height: 440px;
+    width: 660px;
+    background-image: url(quimica3.3.png);
+    float:left;
+}
