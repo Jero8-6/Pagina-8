@@ -255,3 +255,51 @@ background-repeat: no-repeat;
     background-image: url(Logo.webp);
     float:left;
 }
+
+.ImgMat1{
+
+    height: 171px;
+    width: 470px;
+    background-image: url(matematicas1.png);
+    float:left;
+}
+
+.ImgMat2{
+
+    height: 250px;
+    width: 470px;
+    background-image: url(matematicas2.png);
+    float:left;
+}
+
+.ImgMat3{
+
+    height: 340px;
+    width: 560px;
+    background-image: url(matematicas3.png);
+    float:left;
+}
+
+.ImgMat4{
+
+    height: 250px;
+    width: 548px;
+    background-image: url(matematicas4.png);
+    float:left;
+}
+
+.ImgMat5{
+
+    height: 215px;
+    width: 580px;
+    background-image: url(matematicas5.png);
+    float:left;
+}
+
+.ImgMat6{
+
+    height: 270px;
+    width: 530px;
+    background-image: url(matematicas6.png);
+    float:left;
+}
