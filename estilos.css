@@ -303,3 +303,91 @@ background-repeat: no-repeat;
     background-image: url(matematicas6.png);
     float:left;
 }
+
+.ImgMat7{
+
+    height: 225px;
+    width: 565px;
+    background-image: url(matematicas7.png);
+    float:left;
+}
+
+.ImgMat8{
+
+    height: 257px;
+    width: 600px;
+    background-image: url(matematicas8.png);
+    float:left;
+}
+
+.ImgMat9{
+
+    height: 320px;
+    width: 530px;
+    background-image: url(matematicas9.png);
+    float:left;
+}
+
+.ImgMat10{
+
+    height: 320px;
+    width: 480px;
+    background-image: url(matematicas10.png);
+    float:left;
+}
+
+.ImgMat11{
+
+    height: 240px;
+    width: 480px;
+    background-image: url(matematicas11.png);
+    float:left;
+}
+
+.ImgMat12{
+
+    height: 240px;
+    width: 734px;
+    background-image: url(matematicas12.png);
+    float:left;
+}
+
+.ImgMat13{
+
+    height: 240px;
+    width: 517px;
+    background-image: url(matematicas13.png);
+    float:left;
+}
+
+.ImgMat14{
+
+    height: 233px;
+    width: 646px;
+    background-image: url(matematicas14.png);
+    float:left;
+}
+
+.ImgBio3-1{
+
+    height: 330px;
+    width: 588px;
+    background-image: url(biologia3.1.png);
+    float:left;
+}
+
+.ImgBio3-2{
+
+    height: 474px;
+    width: 476px;
+    background-image: url(biologia3.2.png);
+    float:left;
+}
+
+.ImgBio3-3{
+
+    height: 250px;
+    width: 600px;
+    background-image: url(biologia3.3.png);
+    float:left;
+}
