@@ -314,8 +314,8 @@ background-repeat: no-repeat;
 
 .ImgMat8{
 
-    height: 257px;
-    width: 600px;
+    height: 300px;
+    width: 705px;
     background-image: url(matematicas8.png);
     float:left;
 }
@@ -330,8 +330,8 @@ background-repeat: no-repeat;
 
 .ImgMat10{
 
-    height: 320px;
-    width: 480px;
+    height: 305px;
+    width: 470px;
     background-image: url(matematicas10.png);
     float:left;
 }
@@ -346,8 +346,8 @@ background-repeat: no-repeat;
 
 .ImgMat12{
 
-    height: 240px;
-    width: 734px;
+    height: 220px;
+    width: 615px;
     background-image: url(matematicas12.png);
     float:left;
 }
@@ -362,8 +362,8 @@ background-repeat: no-repeat;
 
 .ImgMat14{
 
-    height: 233px;
-    width: 646px;
+    height: 205px;
+    width: 600px;
     background-image: url(matematicas14.png);
     float:left;
 }
