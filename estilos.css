@@ -450,15 +450,29 @@ background-repeat: no-repeat;
 }
 
 
-ImgIng3-4{
+.ImgIng3-4{
 
-    height: 300px;
-    width: 378px;
+    height: 330px;
+    width: 540px;
     background-image: url(ingles3.4.png);
     float:left;
 }
 
+.ImgIng3-5{
 
+    height: 310px;
+    width: 470px;
+    background-image: url(ingles3.5.png);
+    float:left;
+}
+
+.ImgIng3-6{
+
+    height: 310px;
+    width: 470px;
+    background-image: url(ingles3.6.png);
+    float:left;
+}
 
 
 
